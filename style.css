@@ -1,0 +1,21 @@
+body{
+   margin-top: 70px;
+   background:#333;
+   color: #fff;
+   font-family: 'Playfair Display', serif;
+}
+.center{
+    display: inline-block;
+}
+.card-primary{
+    color:black;
+    background-color: tomato;
+}
+.card-danger{
+    color:black;
+    background-color: goldenrod;
+}
+.card-success{
+    color: black;
+    background-color:teal;
+}
